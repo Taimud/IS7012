@@ -1,0 +1,62 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lunar Surface Operations: Apollo 11</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            max-width: 800px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        header, main, footer {
+            margin-bottom: 20px;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 10px 0;
+        }
+        figure {
+            margin: 0;
+            text-align: center;
+        }
+        figcaption {
+            font-style: italic;
+            color: #555;
+        }
+        blockquote {
+            border-left: 4px solid #ccc;
+            padding-left: 15px;
+            margin: 10px 0;
+            color: #444;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Lunar Surface Operations: Apollo 11</h1>
+    </header>
+    <main>
+        <section aria-labelledby="site-assessment">
+            <h2 id="site-assessment">Site Assessment</h2>
+            <p>Reconnaissance data indicated that the area within 15 kilometers (9.3 miles) of Site 2 was surveyed and reported as acceptable for operations.</p>
+        </section>
+        <section aria-labelledby="flag-raising">
+            <h2 id="flag-raising">Flag Raising Ceremony</h2>
+            <p>The astronauts planted the Lunar Flag Assembly, containing a flag of the United States, on the lunar surface in clear view of the TV camera. Aldrin remembered, "Of all the jobs I had to do on the Moon, the one I wanted to go the smoothest was the flag raising." However, the astronauts struggled with the telescoping rod and could only jam the pole about 2 inches (5 cm) into the hard lunar surface. Aldrin was concerned it might topple in front of TV viewers, but he gave "a crisp West Point salute."</p>
+            <figure>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Aldrin_Apollo_11_original.jpg" alt="Buzz Aldrin saluting the U.S. flag on the lunar surface during Apollo 11">
+                <figcaption>Buzz Aldrin saluting the U.S. flag on the Moon, Apollo 11, 1969.</figcaption>
+            </figure>
+        </section>
+        <section aria-labelledby="nixon-call">
+            <h2 id="nixon-call">Historic Presidential
