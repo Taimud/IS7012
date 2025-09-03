@@ -1,0 +1,66 @@
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Taiwo Afeez Mudah - Resume</title>
+</head>
+<body>
+    <header>
+        <h1>Taiwo Afeez Mudah</h1>
+        <p>
+            859 396 7409 • <a href="mailto:taimud@gmail.com">taimud@gmail.com</a> • Louisville KY • 
+            <a href="https://www.linkedin.com/in/taiwo-mudah-621aa0223">LinkedIn Profile</a>
+        </p>
+        <hr>
+    </header>
+
+    <section>
+        <h2>Education</h2>
+        <h3>University of Cincinnati, Carl H. Lindner College of Business</h3>
+        <p>Cincinnati, Ohio</p>
+        <p><strong>Master of Science, Information Systems</strong> <em>Expected: Dec 2026</em></p>
+
+        <h3>University of Greenwich</h3>
+        <p>London, United Kingdom</p>
+        <p><strong>Bachelor of Arts Business Management</strong> <em>Sept 2021 – June 2023</em></p>
+        <ul>
+            <li>Second Class Honours (1st Division)</li>
+        </ul>
+        <hr>
+    </section>
+
+    <section>
+        <h2>Work Experience</h2>
+        <h3>Remote Customer Relations Representative</h3>
+        <p><strong>SAMCOM & MICH-ALEX NIG LTD</strong> <em>Remote • Aug 2022 – June 2025</em></p>
+        <ul>
+            <li>Resolved highly escalated customer queries via in-app chat, email, and phone, supporting users throughout pre-sale and device testing phases to enhance satisfaction and retention.</li>
+            <li>Navigated multiple systems including CRM and in-chat platforms simultaneously, ensuring efficient and accurate handling of customer interactions.</li>
+            <li>Communicated with customers to assess needs and deliver timely support using Salesforce systems, resulting in positive experiences and strengthened relationships.</li>
+        </ul>
+
+        <h3>Professional Fundraiser</h3>
+        <p><strong>CauseLed, Alzheimer’s Society</strong> <em>Coventry UK • Feb 2022 – Aug 2022</em></p>
+        <ul>
+            <li>Raised awareness about dementia and Alzheimer’s through house-to-house outreach, engaging community members to promote understanding and support.</li>
+            <li>Organized and executed fundraising activities including collections, contributing to organizational goals and donor engagement.</li>
+            <li>Communicated organization’s mission and services to maintain positive donor relationships, fostering long-term support.</li>
+            <li>Registered volunteer donors, ensuring accurate data capture and follow-up to expand the supporter base.</li>
+        </ul>
+
+        <h3>Cashier and Customer Service Representative</h3>
+        <p><strong>Vanguard Pharmacy</strong> <em>Ibadan, Nigeria • June 2019 – Sept 2021</em></p>
+        <ul>
+            <li>Delivered positive customer experiences through fair, friendly, and courteous service, enhancing store reputation and repeat business.</li>
+            <li>Processed sales on cash registers by scanning items, itemizing purchases, and totaling amounts, handling an average of 50+ transactions per shift.</li>
+            <li>Bagged purchases and maintained checkout operations in compliance with policies, reporting changes as needed to optimize efficiency.</li>
+        </ul>
+        <hr>
+    </section>
+
+    <section>
+        <h2>Skills & Training</h2>
+        <ul>
+            <li><strong>Cybersecurity, Security Hardening & Security Audit, Network Security, Cloud Networking, Network Architecture, Incident Response Playbooks, Risk Management Framework (CSF), Linux, SQL, Customer Relationship Management</strong></li>
+            <li><strong>Active Listening, Communication, Teamwork, Adaptability, Empathy, Ethical Decision Making, Organisation and Planning, Advocacy, Basic Life Support and AED</strong></li>
+            <li><strong>Languages:</strong> English</li>
+        </ul>
